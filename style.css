@@ -36,7 +36,10 @@ body {
     background-color: #52d2f5;
     color: black;
 }
-
+ 
+.lenguajes:hover a{
+    color: #0d1318;
+}
 
 
 .lenguajes:nth-of-type(1){
