@@ -15,6 +15,13 @@ body {
     font-size: 25px;
 }
 
+#titulo:hover{
+    border: 2px solid #52d2f5;
+    box-shadow: 0 0 5px #fff, 0 0 10px #0d1318, 0 0 15px #0d1318;
+    background-color: #52d2f5;
+    color: black;
+}
+
 .lenguajes{
     border: 2px solid #52d2f5 ;
     box-shadow: 0 0 5px #fff, 0 0 10px #52d2f5, 0 0 15px #52d2f5;
@@ -22,6 +29,15 @@ body {
     margin-top: 30px;
     width: 40%;
 }
+
+.lenguajes:hover{
+    border: 3px solid #52d2f5;
+    box-shadow: 0 0 5px #fff, 0 0 10px #0d1318, 0 0 15px #0d1318;
+    background-color: #52d2f5;
+    color: black;
+}
+
+
 
 .lenguajes:nth-of-type(1){
     width: 30%;
@@ -56,6 +72,19 @@ body {
 #tutoriales{
     font-size: 30px;
 }
+
+.iframes{
+    padding-left: 25%;
+}
+
+a{
+    color: white;
+}
+
+
+
+
+
 
 
 
